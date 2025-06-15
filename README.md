@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shisiir Uparkoti
+# 👋 Hi, I'm Shisir Uparkoti
 
 ### 🚀 Aspiring MERN Stack Developer | Tech Enthusiast  
 📍 Morang, Nepal  
@@ -7,14 +7,14 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate learner diving deep into **JavaScript** and on a focused path toward becoming a **MERN Stack Developer**. With a background in **C++ (OOP)** and basic experience in **C**, **PHP**, and **MySQL**, I'm building my full-stack skills step by step.
+I'm a passionate learner diving deep into **JavaScript** and on a focused path toward becoming a **MERN Stack Developer**. With a background in **C++** and basic experience in **C**, **PHP**, and **MySQL**, I'm building my full-stack skills step by step.
 
 ---
 
 ## 🛠️ Tech Snapshot
 
 - 📌 JavaScript (in progress)
-- 📌 C++, C (OOPs)
+- 📌 C++, C 
 - 📌 PHP + MySQL (basic)
 - 📌 Getting started with React
 
@@ -32,7 +32,7 @@ I'm a passionate learner diving deep into **JavaScript** and on a focused path t
 
 - 🔗 [LinkedIn](https://linkedin.com/in/shisirupk061)  
 - 📘 [Facebook](https://facebook.com/@ccrupk)  
-- 📧 [Email]ccrpc64@gmail.com
+- 📧 ccrpc64@gmail.com
 
 ---
 
