@@ -71,14 +71,15 @@ I am currently working toward becoming a skilled backend-focused full-stack deve
 My main focus is not only learning tools, but also understanding how real systems work behind the scenes — from database design and API structure to authentication, security, deployment, and maintainability.
 
 ---
-
+<!--
 ## GitHub Stats
 
-![Shisir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whyshisir02\&show_icons=true\&theme=dark\&hide_border=true)
+![Shisir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whyshisir02&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whyshisir02\&layout=compact\&theme=dark\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whyshisir02&layout=compact&theme=dark&hide_border=true)
 
 ---
+-->
 
 ## Connect With Me
 
